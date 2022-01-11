@@ -46,7 +46,9 @@ Overview of mathematical prerequisites, brief introduction to quantum states and
 
 ## Interviews
 
- -
+ - John Doe (CEO of Doe Capital): https://google.com/hello
+ - Joe Schmo (Physicist at ABC): https://google.com/world
+ 
 
 
 
