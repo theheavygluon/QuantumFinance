@@ -8,15 +8,45 @@ In this course, one will find that each topic has the following resources: Theor
 
 <a href="https://google.com"> This video</a> explains how to navigate and use this course. Contact us <a href="https://email.com">here</a> if you have a question.
 
+
+## Pre-requisites:
+
+One of the beauties behind learning quantum computing is that on an elementary level, very few pre-requisites are required. This course is designed in a way where the only pre-requisites required are basic linear algebra and classical information processing. To ensure that everyone has those under their belts before attending the crash course, we made those three notebooks which we encourage everyone to read and solve the exercises.
+
+ - Chapter 1 is on vectors and how they are used to represent the state of a qubit
+ - Chapter 2 is on operators and how they are used to manipulate the state of a qubit
+ - Chapter 3 is on Classical Information and Boolean Logic
+
  ## Table of Contents:
 
- - Pre-requisites folder: Jupyter Notebook series on Vectors, Matrices and Classical Computation (with Python refresher)
- - Day 1: What is Quantum Computation?
- - Day 2: Topic 1
- - Day 3: Topic 2
- - Day 4: Topic 3
- - Day 5: Topic 4
- - Interview(s): Link to YouTube playlist 
+### Day 1: 
+Overview of mathematical prerequisites, brief introduction to quantum states and operators, and classical computing. Content available here.
+
+ - Lecture 1: https://youtu.be/ifPodLNDvcQ
+
+### Day 2: 
+Overview of mathematical prerequisites, brief introduction to quantum states and operators, and classical computing. Content available here.
+
+ - Lecture 1: https://youtu.be/ifPodLNDvcQ
+
+### Day 3: 
+Overview of mathematical prerequisites, brief introduction to quantum states and operators, and classical computing. Content available here.
+
+ - Lecture 1: https://youtu.be/ifPodLNDvcQ
+
+### Day 4: 
+Overview of mathematical prerequisites, brief introduction to quantum states and operators, and classical computing. Content available here.
+
+ - Lecture 1: https://youtu.be/ifPodLNDvcQ
+
+### Day 5: 
+Overview of mathematical prerequisites, brief introduction to quantum states and operators, and classical computing. Content available here.
+
+ - Lecture 1: https://youtu.be/ifPodLNDvcQ
+
+## Interviews
+
+ -
 
 
 
