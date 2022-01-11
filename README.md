@@ -17,6 +17,13 @@ One of the beauties behind learning quantum computing is that on an elementary l
  - Chapter 2 is on operators and how they are used to manipulate the state of a qubit
  - Chapter 3 is on Classical Information and Boolean Logic
 
+
+ ### Module Requirements
+ 
+ - [Numpy](https://numpy.org)
+ - [Sympy](https://www.sympy.org/en/index.html)
+ - [truth-table-generator](https://pypi.org/project/truth-table-generator/)
+
  ## Table of Contents:
 
 ### Day 1: 
