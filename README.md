@@ -33,7 +33,7 @@ Introduction to quantum computing
  - Quantum Mechanics: https://youtu.be/ifPodLNDvcQ
  - Quantum Computing: https://youtu.be/ifPodLNDvcQ
 
- - Practical (Introduction to qiskit): https://youtu.be/ifPodLNDvcQ
+ - Practical (Introduction to qiskit): https://github.com/theheavygluon/QuantumFinance/blob/main/Day%201/QCPractical.ipynb
 
 ### Day 2: 
 Overview of mathematical prerequisites, brief introduction to quantum states and operators, and classical computing. Content available here.
