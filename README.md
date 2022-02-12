@@ -27,9 +27,13 @@ One of the beauties behind learning quantum computing is that on an elementary l
  ## Table of Contents:
 
 ### Day 1: 
-Overview of mathematical prerequisites, brief introduction to quantum states and operators, and classical computing. Content available here.
+Introduction to quantum computing
 
- - Lecture 1: https://youtu.be/ifPodLNDvcQ
+ - Classical Computing: https://youtu.be/ifPodLNDvcQ
+ - Quantum Mechanics: https://youtu.be/ifPodLNDvcQ
+ - Quantum Computing: https://youtu.be/ifPodLNDvcQ
+
+ - Practical (Introduction to qiskit): https://youtu.be/ifPodLNDvcQ
 
 ### Day 2: 
 Overview of mathematical prerequisites, brief introduction to quantum states and operators, and classical computing. Content available here.
