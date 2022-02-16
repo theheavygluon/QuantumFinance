@@ -52,6 +52,7 @@ A breif introduction to Quantum Risk Analysis
  - Lecture 2:
  - Lecture 3:
  - Lecture notes and references:
+ - PowerPoint slides:
  
 
 ### Day 5: 
