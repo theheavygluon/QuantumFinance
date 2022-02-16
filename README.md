@@ -46,9 +46,13 @@ Overview of mathematical prerequisites, brief introduction to quantum states and
  - Lecture 1: https://youtu.be/ifPodLNDvcQ
 
 ### Day 4: 
-Overview of mathematical prerequisites, brief introduction to quantum states and operators, and classical computing. Content available here.
+A breif introduction to Quantum Risk Analysis
 
- - Lecture 1: https://youtu.be/ifPodLNDvcQ
+ - Lecture 1: 
+ - Lecture 2:
+ - Lecture 3:
+ - Lecture notes and references:
+ 
 
 ### Day 5: 
 Overview of mathematical prerequisites, brief introduction to quantum states and operators, and classical computing. Content available here.
