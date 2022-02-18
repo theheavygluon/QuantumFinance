@@ -46,7 +46,7 @@ Overview of mathematical prerequisites, brief introduction to quantum states and
  - Lecture 1: https://youtu.be/ifPodLNDvcQ
 
 ### Day 4: 
-A breif introduction to Quantum Risk Analysis
+A brief introduction to Quantum Risk Analysis
 
  - Lecture 1: 
  - Lecture 2:
