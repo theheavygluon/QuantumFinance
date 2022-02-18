@@ -70,6 +70,7 @@ An introduction to Quantum optimization
  - Lecture notes and references:
  - PowerPoint slides:
 
+
 ## Interviews
 
  - John Doe (CEO of Doe Capital): https://google.com/hello
