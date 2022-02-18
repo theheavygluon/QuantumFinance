@@ -50,7 +50,7 @@ A breif introduction to Quantum Risk Analysis
 
  - Lecture 1: 
  - Lecture 2:
- - Lecture 3:<iframe src="https://durham.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=6f565623-1a1c-4653-8d1c-ae3801226eff&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" 
+ - Lecture 3: "https://durham.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=6f565623-1a1c-4653-8d1c-ae3801226eff&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" 
  - Lecture notes and references:
  - PowerPoint slides:
  
