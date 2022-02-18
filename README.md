@@ -60,6 +60,16 @@ Overview of mathematical prerequisites, brief introduction to quantum states and
 
  - Lecture 1: https://youtu.be/ifPodLNDvcQ
 
+
+### Day 7: 
+An introduction to Quantum optimization
+
+ - Lecture 1: https://pro.panopto.com/Panopto/Pages/Viewer.aspx?id=61e06fb0-d650-47f3-b723-ae3b011b5d64
+ - Lecture 2: https://pro.panopto.com/Panopto/Pages/Viewer.aspx?id=4ae6870a-f99a-4a92-9b00-ae3b0123c3d8
+ - Lecture 3: https://pro.panopto.com/Panopto/Pages/Viewer.aspx?id=abcc9946-4918-4b24-85d0-ae3b012ca491
+ - Lecture notes and references:
+ - PowerPoint slides:
+
 ## Interviews
 
  - John Doe (CEO of Doe Capital): https://google.com/hello
