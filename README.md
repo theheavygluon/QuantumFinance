@@ -49,7 +49,7 @@ Overview of mathematical prerequisites, brief introduction to quantum states and
 A brief introduction to Quantum Risk Analysis
 
  - Lecture 1: 
- - Lecture 2:
+ - Lecture 2: https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a5aca5e8-43d5-4b60-9ac3-ae37011f3c5f
  - Lecture 3: https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6f565623-1a1c-4653-8d1c-ae3801226eff
  - Lecture notes and references:
  - PowerPoint slides:
