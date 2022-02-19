@@ -41,11 +41,6 @@ Overview of mathematical prerequisites, brief introduction to quantum states and
  - Lecture 1: https://youtu.be/ifPodLNDvcQ
 
 ### Day 3: 
-Overview of mathematical prerequisites, brief introduction to quantum states and operators, and classical computing. Content available here.
-
- - Lecture 1: https://youtu.be/ifPodLNDvcQ
-
-### Day 4: 
 A brief introduction to Quantum Risk Analysis
 
  - Lecture 1: https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b3d8ded4-b25e-4a50-9200-ae370142f1a0
@@ -53,6 +48,10 @@ A brief introduction to Quantum Risk Analysis
  - Lecture 3: https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6f565623-1a1c-4653-8d1c-ae3801226eff
  - Lecture notes and references:
  - PowerPoint slides:
+
+
+### Day 4: 
+
  
 
 ### Day 5: 
