@@ -63,9 +63,9 @@ Overview of mathematical prerequisites, brief introduction to quantum states and
 ### Day 5: 
 An introduction to Quantum optimization
 
- - Lecture 1: https://pro.panopto.com/Panopto/Pages/Viewer.aspx?id=61e06fb0-d650-47f3-b723-ae3b011b5d64
- - Lecture 2: https://pro.panopto.com/Panopto/Pages/Viewer.aspx?id=4ae6870a-f99a-4a92-9b00-ae3b0123c3d8
- - Lecture 3: https://pro.panopto.com/Panopto/Pages/Viewer.aspx?id=abcc9946-4918-4b24-85d0-ae3b012ca491
+ - Lecture 1: https://pro.panopto.com/Panopto/Pages/Viewer.aspx?id=e9aa187f-968e-458d-9bdc-ae42010a66c5
+ - Lecture 2: https://pro.panopto.com/Panopto/Pages/Viewer.aspx?id=8811b3ea-30f8-4ff6-a4a4-ae42010ea686
+ - Lecture 3: https://pro.panopto.com/Panopto/Pages/Viewer.aspx?id=da13894b-6793-4d70-8da5-ae420115d5f9
  - Lecture notes and references:
  - PowerPoint slides: 
 
