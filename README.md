@@ -85,7 +85,8 @@ An Introduction to Quantum optimization
  - Lecture 1: https://pro.panopto.com/Panopto/Pages/Viewer.aspx?id=e9aa187f-968e-458d-9bdc-ae42010a66c5
  - Lecture 2: https://pro.panopto.com/Panopto/Pages/Viewer.aspx?id=8811b3ea-30f8-4ff6-a4a4-ae42010ea686
  - Lecture 3: https://pro.panopto.com/Panopto/Pages/Viewer.aspx?id=da13894b-6793-4d70-8da5-ae420115d5f9
- - Lecture notes and references:
+ - Lecture notes and references:[Digital Media Lecture notes.docx](https://github.com/theheavygluon/QuantumFinance/files/8112555/Digital.Media.Lecture.notes.docx)
+
  - PowerPoint slides: 
 
 
