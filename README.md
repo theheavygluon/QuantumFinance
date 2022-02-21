@@ -55,6 +55,9 @@ An Introduction to Quantum Risk Analysis
  - PowerPoint slides: [PP video 1.pptx](https://github.com/theheavygluon/QuantumFinance/files/8110686/PP.video.1.pptx)
                       [PP video 2.pptx](https://github.com/theheavygluon/QuantumFinance/files/8110651/PP.video.2.pptx)
                       [PP video 3.pptx](https://github.com/theheavygluon/QuantumFinance/files/8110603/PP.video.3.pptx)
+                      
+ ![](https://globalriskinstitute.org/wp-content/uploads/2017/01/iStock-123208401_cropped.jpg)
+ 
 
 
 
