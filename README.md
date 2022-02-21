@@ -1,14 +1,14 @@
 # Introduction to Quantum Finance
 ![IBM Quantum Circuit](https://www.extremetech.com/wp-content/uploads/2019/01/IBM-Quantum-banner-size-640x353.jpg) 
 
-**Authors:**
+**AUTHORS:**
 
 **INTRODUCTION:**
 Quantum Computation is attracting an ever-increasing amount of research interest, hype and concequently, funding (both academic and commercial). One industry that seems to be particularly interested in the utilization of quantum computers is the finance industry. This mini-course is designed to introduce basic Quantum Computing and display a few examples of how it can be applied to the world of finance. The target audience is undergraduates in quantitative fields such as physics, math, computer science (and even finance).
 
 In this course, one will find that each topic has the following resources: Theoretical lecture (uploaded to YouTube), Jupyter Notebook (Coding Implementation in IBM's <a href=https://qiskit.org>Qiskit </a> library) and a problem set.
 
-## Course How-to:
+## THE COURSE:
 
 <a href="https://google.com"> This video</a> explains how to navigate and use this course. Contact us <a href="https://email.com">here</a> if you have a question.
 
@@ -45,7 +45,7 @@ Overview of mathematical prerequisites, brief introduction to quantum states and
  - Lecture 1: https://youtu.be/ifPodLNDvcQ
 
 ### Day 3: 
-A brief introduction to Quantum Risk Analysis
+An Introduction to Quantum Risk Analysis
 
  - Lecture 1: https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b3d8ded4-b25e-4a50-9200-ae370142f1a0
  - Lecture 2: https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a5aca5e8-43d5-4b60-9ac3-ae37011f3c5f
@@ -69,7 +69,7 @@ Overview of mathematical prerequisites, brief introduction to quantum states and
 
 
 ### Day 5: 
-An introduction to Quantum optimization
+An Introduction to Quantum optimization
 
  - Lecture 1: https://pro.panopto.com/Panopto/Pages/Viewer.aspx?id=e9aa187f-968e-458d-9bdc-ae42010a66c5
  - Lecture 2: https://pro.panopto.com/Panopto/Pages/Viewer.aspx?id=8811b3ea-30f8-4ff6-a4a4-ae42010ea686
