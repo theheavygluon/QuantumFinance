@@ -8,6 +8,8 @@ Quantum Computation is attracting an ever-increasing amount of research interest
 
 In this course, one will find that each topic has the following resources: Theoretical lecture (uploaded to YouTube), Jupyter Notebook (Coding Implementation in IBM's <a href=https://qiskit.org>Qiskit </a> library) and a problem set.
 
+> (Quantum computing in finance quote)
+
 ## THE COURSE: 
 Explain what the course will cover
 
