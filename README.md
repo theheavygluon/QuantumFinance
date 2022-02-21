@@ -1,9 +1,10 @@
 # Introduction to Quantum Finance
 ![IBM Quantum Circuit](https://www.extremetech.com/wp-content/uploads/2019/01/IBM-Quantum-banner-size-640x353.jpg) 
 
-Authors:
+**Authors:**
 
-INTRODUCTION:Quantum Computation is attracting an ever-increasing amount of research interest, hype and concequently, funding (both academic and commercial). One industry that seems to be particularly interested in the utilization of quantum computers is the finance industry. This mini-course is designed to introduce basic Quantum Computing and display a few examples of how it can be applied to the world of finance. The target audience is undergraduates in quantitative fields such as physics, math, computer science (and even finance).
+**INTRODUCTION:**
+Quantum Computation is attracting an ever-increasing amount of research interest, hype and concequently, funding (both academic and commercial). One industry that seems to be particularly interested in the utilization of quantum computers is the finance industry. This mini-course is designed to introduce basic Quantum Computing and display a few examples of how it can be applied to the world of finance. The target audience is undergraduates in quantitative fields such as physics, math, computer science (and even finance).
 
 In this course, one will find that each topic has the following resources: Theoretical lecture (uploaded to YouTube), Jupyter Notebook (Coding Implementation in IBM's <a href=https://qiskit.org>Qiskit </a> library) and a problem set.
 
