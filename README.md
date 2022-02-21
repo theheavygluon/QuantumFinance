@@ -88,6 +88,7 @@ An Introduction to Quantum optimization
  - Lecture notes and references: [Quantum Optimization Lecture Notes.docx](https://github.com/theheavygluon/QuantumFinance/files/8112591/Quantum.Optimization.Lecture.Notes.docx)
  - PowerPoint slides: [Physics in Society Lecture Slides.pptx](https://github.com/theheavygluon/QuantumFinance/files/8112592/Physics.in.Society.Lecture.Slides.pptx)
 
+![Optimization](https://user-images.githubusercontent.com/97832483/155039841-0a22825f-abd3-4dff-a0ea-a08b68661549.jpeg)
 
 
 ## Interviews
