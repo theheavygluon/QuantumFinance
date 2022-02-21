@@ -47,7 +47,8 @@ A brief introduction to Quantum Risk Analysis
  - Lecture 2: https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a5aca5e8-43d5-4b60-9ac3-ae37011f3c5f
  - Lecture 3: https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6f565623-1a1c-4653-8d1c-ae3801226eff
  - Lecture notes and references:
- - PowerPoint slides: [PP video 2.pptx](https://github.com/theheavygluon/QuantumFinance/files/8110651/PP.video.2.pptx)
+ - PowerPoint slides: [PP video 1.pptx](https://github.com/theheavygluon/QuantumFinance/files/8110686/PP.video.1.pptx)
+                      [PP video 2.pptx](https://github.com/theheavygluon/QuantumFinance/files/8110651/PP.video.2.pptx)
                       [PP video 3.pptx](https://github.com/theheavygluon/QuantumFinance/files/8110603/PP.video.3.pptx)
 
 
