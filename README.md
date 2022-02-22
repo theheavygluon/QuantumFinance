@@ -84,6 +84,7 @@ An Introduction to Quantum optimization
 
 ![Optimization](https://user-images.githubusercontent.com/97832483/155039841-0a22825f-abd3-4dff-a0ea-a08b68661549.jpeg)
 
+Thank you for watching our lecture videos, we hope you've gained a good insight into the uses of Quantum Computing in Finance.
 
 ## Interviews
 
