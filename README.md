@@ -71,12 +71,6 @@ An Introduction to Quantum Risk Analysis
 
 ### Day 4: 
 
- 
-
-### Day 5: 
-Overview of mathematical prerequisites, brief introduction to quantum states and operators, and classical computing. Content available here.
-
- - Lecture 1: https://youtu.be/ifPodLNDvcQ
 
 
 ### Day 5: 
