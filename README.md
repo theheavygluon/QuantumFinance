@@ -125,7 +125,7 @@ by Edward Hall
 
  - Lecture 1: https://pro.panopto.com/Panopto/Pages/Viewer.aspx?id=e9aa187f-968e-458d-9bdc-ae42010a66c5
  - Lecture 2: https://pro.panopto.com/Panopto/Pages/Viewer.aspx?id=8811b3ea-30f8-4ff6-a4a4-ae42010ea686
- - Lecture 3: https://pro.panopto.com/Panopto/Pages/Viewer.aspx?id=da13894b-6793-4d70-8da5-ae420115d5f9
+ - Lecture 3: https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=e91805cc-994e-41ed-8a4b-ae450121f4b1
  - Lecture notes and references: [Quantum Optimizaiton Lecture Notes pdf.pdf](https://github.com/theheavygluon/QuantumFinance/files/8119944/Quantum.Optimizaiton.Lecture.Notes.pdf.pdf)
  - PowerPoint slides: [Physics in Society Lecture Slides.pptx](https://github.com/theheavygluon/QuantumFinance/files/8120590/Physics.in.Society.Lecture.Slides.pptx)
 
