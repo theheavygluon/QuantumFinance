@@ -1,7 +1,7 @@
 # Introduction to Quantum Finance
 ![IBM Quantum Circuit](https://www.extremetech.com/wp-content/uploads/2019/01/IBM-Quantum-banner-size-640x353.jpg) 
 
-**ABOUT THE AUTHORS:** 
+## **ABOUT THE AUTHORS:** 
 
 Course creators: Jack Streeter, Edward Hall, Adam Fattal-Dakmak and Alice Bru.
 
@@ -9,7 +9,8 @@ We are a group of students studying Physics at Durham University. We hope this i
 ![Durham Logo](https://www.publicengagement.ac.uk/sites/default/files/styles/content_width/public/job/durham-uni-logo.jpg?itok=_VJT4C1X)
 
 
-**INTRODUCTION:** REWRITE INTRO
+##**INTRODUCTION:** REWRITE INTRO
+
 **Welcome** to this introductory course on the applications of Quantum Physics in the financial world. In this course we will be taking you through several applications of Quantum Computational methods in various financial situations, and showing you examples of the many 
 
 _Quantum Computation is attracting an ever-increasing amount of research interest, hype and concequently, funding (both academic and commercial). One industry that seems to be particularly interested in the utilization of quantum computers is the finance industry. This mini-course is designed to introduce basic Quantum Computing and display a few examples of how it can be applied to the world of finance. The target audience is undergraduates in quantitative fields such as physics, math, computer science (and even finance)._
