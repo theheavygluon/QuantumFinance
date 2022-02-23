@@ -39,7 +39,7 @@ This course consists of five seperate days of lecture videos and notes to watch.
 **Day 2** will...introduce Quantum Risk Analysis, and its importance in everyday financial operations.
 
 
-**Day 3** will JACK
+**Day 3** will... introduce Classical and Quantum Machine Learning and algorithms that can be used in areas of finance such as supply chain management and credit scoring.
 
 **Day 4** will...will introduce the use of Quantum Computing in Portfolio Optimization.
 
