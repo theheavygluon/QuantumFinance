@@ -76,13 +76,13 @@ by Adam Fattal-Dakmak
 
  - Practical (Introduction to qiskit): https://github.com/theheavygluon/QuantumFinance/blob/main/Day%201/QCPractical.ipynb
 
-### Day 2: 
+### Day 3: 
 Overview of mathematical prerequisites, brief introduction to quantum states and operators, and classical computing. Content available here.
 
 by Adam Fattal-Dakmak
  - Lecture 1: https://youtu.be/ifPodLNDvcQ
 
-### Day 3: 
+### Day 2: 
 An Introduction to Quantum Risk Analysis
 
 by Alice Bru
