@@ -10,7 +10,7 @@ _Quantum Computation is attracting an ever-increasing amount of research interes
 
 _In this course, one will find that each topic has the following resources: Theoretical lecture (uploaded to YouTube), Jupyter Notebook (Coding Implementation in IBM's <a href=https://qiskit.org>Qiskit </a> library) and a problem set._
 
-> (Quantum computing in finance quote)
+> One who finds the niche of quantum computing application will become the new market leader _Viacheslav Petrenko_
 
 ## THE COURSE: 
 (Explain what the course will cover & add updated contact details)
