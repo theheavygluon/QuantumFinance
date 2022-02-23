@@ -115,10 +115,10 @@ by Jack Streeter
 
 - Jupyter Notebook Python Regression Model example:
 
+- Lecture Notes:  [An Introduction to Classical and Quantum Machine Learning PowerPoint Slides.pdf](https://github.com/theheavygluon/QuantumFinance/files/8128054/An.Introduction.to.Classical.and.Quantum.Machine.Learning.PowerPoint.Slides.pdf)
+
 - Lecture Powerpoint Slides:
   [An Introduction to Classical and Quantum Machine Learning PowerPoint Slides.pdf](https://github.com/theheavygluon/QuantumFinance/files/8125801/An.Introduction.to.Classical.and.Quantum.Machine.Learning.PowerPoint.Slides.pdf)
-
-- Lecture Notes:  [An Introduction to Classical and Quantum Machine Learning PowerPoint Slides.pdf](https://github.com/theheavygluon/QuantumFinance/files/8128054/An.Introduction.to.Classical.and.Quantum.Machine.Learning.PowerPoint.Slides.pdf)
 
 ### Day 5: 
 An Introduction to Quantum optimization
