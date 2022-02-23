@@ -1,12 +1,16 @@
-# Introduction to Quantum Finance
+# An Introduction to Quantum Finance
 ![IBM Quantum Circuit](https://www.extremetech.com/wp-content/uploads/2019/01/IBM-Quantum-banner-size-640x353.jpg) 
 
-## **ABOUT THE AUTHORS:** 
+## **About the Authors:** 
 
 Course creators: Jack Streeter, Edward Hall, Adam Fattal-Dakmak and Alice Bru.
 
 We are a group of students studying Physics at Durham University. We hope this introductory course will help you gain an insight into some applications of quantum computing in finance. Hopefully inspire you to consider the many career possibilities in the financial world, as well as the importance that physics has in this sector. 
 ![Durham Logo](https://www.publicengagement.ac.uk/sites/default/files/styles/content_width/public/job/durham-uni-logo.jpg?itok=_VJT4C1X)
+
+If you have any questions contact us here: 
+[jack.streeter@durham.ac.uk]
+
 
 
 ##**INTRODUCTION:** REWRITE INTRO
