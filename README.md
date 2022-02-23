@@ -1,4 +1,4 @@
-## An Introduction to Quantum Finance
+# An Introduction to Quantum Finance
 ![IBM Quantum Circuit](https://www.extremetech.com/wp-content/uploads/2019/01/IBM-Quantum-banner-size-640x353.jpg) 
 
 ## **About the Authors** 
@@ -61,7 +61,7 @@ _
 
  ## Table of Contents:
 
-### Day 1: 
+###### Day 1: 
 Introduction to quantum computing
 
 by Adam Fattal-Dakmak
@@ -72,13 +72,13 @@ by Adam Fattal-Dakmak
 
  - Practical (Introduction to qiskit): https://github.com/theheavygluon/QuantumFinance/blob/main/Day%201/QCPractical.ipynb
 
-### Day 2: 
+###### Day 2: 
 Overview of mathematical prerequisites, brief introduction to quantum states and operators, and classical computing. Content available here.
 
 by Adam Fattal-Dakmak
  - Lecture 1: https://youtu.be/ifPodLNDvcQ
 
-### Day 3: 
+###### Day 3: 
 An Introduction to Quantum Risk Analysis
 
 by Alice Bru
@@ -97,12 +97,12 @@ by Alice Bru
 
 
 
-### Day 4: 
+###### Day 4: 
 
 by Jack Streeter
 
 
-### Day 5: 
+###### Day 5: 
 An Introduction to Quantum optimization
 
 by Edward Hall
