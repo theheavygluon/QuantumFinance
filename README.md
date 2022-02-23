@@ -1,5 +1,5 @@
-                                                          # An Introduction to Quantum Finance
-                        ![IBM Quantum Circuit](https://www.extremetech.com/wp-content/uploads/2019/01/IBM-Quantum-banner-size-640x353.jpg) 
+# An Introduction to Quantum Finance
+ ![IBM Quantum Circuit](https://www.extremetech.com/wp-content/uploads/2019/01/IBM-Quantum-banner-size-640x353.jpg) 
 
 ## **About the Authors** 
 
