@@ -9,7 +9,11 @@ We are a group of students studying Physics at Durham University. We hope this i
 ![Durham Logo](https://www.publicengagement.ac.uk/sites/default/files/styles/content_width/public/job/durham-uni-logo.jpg?itok=_VJT4C1X)
 
 If you have any questions contact us here: 
+
 jack.streeter@durham.ac.uk
+edward.hall2@durham.ac.uk
+adam.fattal-dakmak@durham.ac.uk
+alice.c.bru@durham.ac.uk
 
 
 
