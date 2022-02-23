@@ -1,4 +1,4 @@
-# An Introduction to Quantum Finance
+## An Introduction to Quantum Finance
 ![IBM Quantum Circuit](https://www.extremetech.com/wp-content/uploads/2019/01/IBM-Quantum-banner-size-640x353.jpg) 
 
 ## **About the Authors:** 
@@ -17,7 +17,7 @@ alice.c.bru@durham.ac.uk
 
 
 
-##**INTRODUCTION:** REWRITE INTRO
+## **INTRODUCTION:** 
 
 **Welcome** to this introductory course on the applications of Quantum Physics in the financial world. In this course we will be taking you through several applications of Quantum Computational methods in various financial situations, and showing you examples of the many 
 
@@ -28,9 +28,17 @@ _In this course, one will find that each topic has the following resources: Theo
 > "One who finds the niche of quantum computing application will become the new market leader" _Viacheslav Petrenko_
 
 ## THE COURSE: 
-(Explain what the course will cover & add updated contact details)
 
 This course consists of five seperate days of lecture videos to watch. 
+Day 1 will...
+
+Day 2 will...
+
+Day 3 will introduce Quantum Risk Analysis, and its importance in everyday financial operations.
+
+Day 4 will...
+
+and finally Day 5 will...
 
 <a href="https://google.com"> This video</a> explains how to navigate and use this course. Contact us <a href="https://email.com">here</a> if you have a question.
 
@@ -54,6 +62,7 @@ _
 
 ### Day 1: 
 Introduction to quantum computing
+by Adam Fattal-Dakmak
 
  - Classical Computing: https://youtu.be/ifPodLNDvcQ
  - Quantum Mechanics: https://youtu.be/ifPodLNDvcQ
@@ -63,12 +72,12 @@ Introduction to quantum computing
 
 ### Day 2: 
 Overview of mathematical prerequisites, brief introduction to quantum states and operators, and classical computing. Content available here.
-
+by Adam Fattal-Dakmak
  - Lecture 1: https://youtu.be/ifPodLNDvcQ
 
 ### Day 3: 
 An Introduction to Quantum Risk Analysis
-
+by Alice Bru
  - Lecture 1: https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b3d8ded4-b25e-4a50-9200-ae370142f1a0
  - Lecture 2: https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a5aca5e8-43d5-4b60-9ac3-ae37011f3c5f
  - Lecture 3: https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6f565623-1a1c-4653-8d1c-ae3801226eff
@@ -85,11 +94,12 @@ An Introduction to Quantum Risk Analysis
 
 
 ### Day 4: 
-
+by Jack Streeter
 
 
 ### Day 5: 
 An Introduction to Quantum optimization
+by Edward Hall
 
  - Lecture 1: https://pro.panopto.com/Panopto/Pages/Viewer.aspx?id=e9aa187f-968e-458d-9bdc-ae42010a66c5
  - Lecture 2: https://pro.panopto.com/Panopto/Pages/Viewer.aspx?id=8811b3ea-30f8-4ff6-a4a4-ae42010ea686
