@@ -113,7 +113,7 @@ by Jack Streeter
 - Lecture 3: An Introduction to Quantum Machine Learning
   https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6e3ebcb6-3447-43a7-8ce9-ae42016f9f73
 
-- Jupyter Notebook Python Regression Model example:
+- Jupyter Notebook Python Regression Model Example:
 
 - Lecture Notes:  [An Introduction to Classical and Quantum Machine Learning PowerPoint Slides.pdf](https://github.com/theheavygluon/QuantumFinance/files/8128054/An.Introduction.to.Classical.and.Quantum.Machine.Learning.PowerPoint.Slides.pdf)
 
