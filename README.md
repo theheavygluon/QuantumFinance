@@ -62,6 +62,7 @@ _
 
 ### Day 1: 
 Introduction to quantum computing
+
 by Adam Fattal-Dakmak
 
  - Classical Computing: https://youtu.be/ifPodLNDvcQ
@@ -72,11 +73,13 @@ by Adam Fattal-Dakmak
 
 ### Day 2: 
 Overview of mathematical prerequisites, brief introduction to quantum states and operators, and classical computing. Content available here.
+
 by Adam Fattal-Dakmak
  - Lecture 1: https://youtu.be/ifPodLNDvcQ
 
 ### Day 3: 
 An Introduction to Quantum Risk Analysis
+
 by Alice Bru
  - Lecture 1: https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b3d8ded4-b25e-4a50-9200-ae370142f1a0
  - Lecture 2: https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a5aca5e8-43d5-4b60-9ac3-ae37011f3c5f
@@ -94,11 +97,13 @@ by Alice Bru
 
 
 ### Day 4: 
+
 by Jack Streeter
 
 
 ### Day 5: 
 An Introduction to Quantum optimization
+
 by Edward Hall
 
  - Lecture 1: https://pro.panopto.com/Panopto/Pages/Viewer.aspx?id=e9aa187f-968e-458d-9bdc-ae42010a66c5
