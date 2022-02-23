@@ -135,11 +135,6 @@ by Edward Hall
 
 Thank you for watching our lecture videos, we hope you've gained a good insight into the uses of Quantum Computing in Finance.
 
-## Interviews
-
- - John Doe (CEO of Doe Capital): https://google.com/hello
- - Joe Schmo (Physicist at ABC): https://google.com/world
- 
 
 
 
