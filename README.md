@@ -11,8 +11,11 @@ We are a group of students studying Physics at Durham University. We hope this i
 If you have any questions please contact us here: 
 
 jack.streeter@durham.ac.uk
+
 edward.hall2@durham.ac.uk
+
 adam.fattal-dakmak@durham.ac.uk
+
 alice.c.bru@durham.ac.uk
 
 
