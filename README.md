@@ -34,15 +34,16 @@ _In this course, one will find that each topic has the following resources: Theo
 
 This course consists of five seperate days of lecture videos and notes to watch. 
 
-**Day 1** will...
+**Day 1** will...ADAM
 
-**Day 2** will...
+**Day 2** will...introduce Quantum Risk Analysis, and its importance in everyday financial operations.
 
-**Day 3** will introduce Quantum Risk Analysis, and its importance in everyday financial operations.
 
-**Day 4** will...
+**Day 3** will JACK
 
-and finally **Day 5** will introduce the use of Quantum Computing in Portfolio Optimization.
+**Day 4** will...will introduce the use of Quantum Computing in Portfolio Optimization.
+
+and finally **Day 5** ADAM
 
 <a href="https://google.com"> This video</a> explains how to navigate and use this course. Contact us <a href="https://email.com">here</a> if you have a question.
 
