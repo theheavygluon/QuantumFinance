@@ -3,12 +3,12 @@
 
 ## **About the Authors** 
 
-Course creators: Jack Streeter, Edward Hall, Adam Fattal-Dakmak and Alice Bru.
+**Course creators:** Jack Streeter, Edward Hall, Adam Fattal-Dakmak and Alice Bru.
 
 We are a group of students studying Physics at Durham University. We hope this introductory course will help you gain an insight into some applications of quantum computing in finance. Hopefully inspire you to consider the many career possibilities in the financial world, as well as the importance that physics has in this sector. 
 ![Durham Logo](https://www.publicengagement.ac.uk/sites/default/files/styles/content_width/public/job/durham-uni-logo.jpg?itok=_VJT4C1X)
 
-If you have any questions contact us here: 
+If you have any questions please contact us here: 
 
 jack.streeter@durham.ac.uk
 edward.hall2@durham.ac.uk
@@ -19,7 +19,7 @@ alice.c.bru@durham.ac.uk
 
 ## **Introduction** 
 
-**Welcome** to this introductory course on the applications of Quantum Physics in the financial world. In this course we will be taking you through several applications of Quantum Computational methods in various financial situations, and showing you examples of the many 
+**Welcome** to this introductory course on the applications of Quantum Physics in the financial world. In this course we will be taking you through several applications of Quantum Computational methods in various financial situations and showing you examples of these in some coding exercises.
 
 _Quantum Computation is attracting an ever-increasing amount of research interest, hype and concequently, funding (both academic and commercial). One industry that seems to be particularly interested in the utilization of quantum computers is the finance industry. This mini-course is designed to introduce basic Quantum Computing and display a few examples of how it can be applied to the world of finance. The target audience is undergraduates in quantitative fields such as physics, math, computer science (and even finance)._
 
@@ -29,7 +29,8 @@ _In this course, one will find that each topic has the following resources: Theo
 
 ## The Course 
 
-This course consists of five seperate days of lecture videos to watch. 
+This course consists of five seperate days of lecture videos and notes to watch. 
+
 Day 1 will...
 
 Day 2 will...
