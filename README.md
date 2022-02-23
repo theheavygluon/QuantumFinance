@@ -42,7 +42,7 @@ This course consists of five seperate days of lecture videos and notes to watch.
 
 **Day 4** will...
 
-and finally **Day 5** will...
+and finally **Day 5** will introduce the use of Quantum Computing in Portfolio Optimization.
 
 <a href="https://google.com"> This video</a> explains how to navigate and use this course. Contact us <a href="https://email.com">here</a> if you have a question.
 
