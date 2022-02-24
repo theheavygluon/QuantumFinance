@@ -9,6 +9,6 @@ Welcome to the first day! Before discussing various applications to quantum comp
 
  - Check out References and Further Resources Here:
 
- - [https://michaelnielsen.org/qcqi/QINFO-book-nielsen-and-chuang-toc-and-chapter1-nov00.pdf](Hello)
+ - [Hello](https://michaelnielsen.org/qcqi/QINFO-book-nielsen-and-chuang-toc-and-chapter1-nov00.pdf)
 
 
