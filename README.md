@@ -2,7 +2,7 @@
 
 ## **Authors** 
 
-**Course creators:** Jack Streeter, Edward Hall, Adam Fattal-Dakmak and Alice Bru.
+**Course creators:** Jack Streeter, Edward Hall, Adam Fattal and Alice Bru.
 
 We are a group of students studying Physics at Durham University. We hope this introductory course will help you gain an insight into some applications of quantum computing in finance. 
 
