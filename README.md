@@ -30,9 +30,9 @@ Both academically and commericially, Quantum Computation is attracting an ever-i
 
 > "One who finds the niche of quantum computing application will become the new market leader" _Viacheslav Petrenko_
 
-## Table of Contents:
+## Course Content:
 
-**Pre-requisites**: The pre-requisite folder contains three chapters; one on vectors (quantum states), one on matrices (quantum operators) and one on classical computation. It is very advised to look through them before going through the other content. 
+**Pre-requisites**: The pre-requisite folder contains three chapters; vectors (quantum states), matrices (quantum operators) and classical computation. It is thorougly advised to look through these before engaging with the course content. 
 
 **Day 1:** Introduces quantum computation both theoretically and practically.  
 
