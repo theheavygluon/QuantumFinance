@@ -3,7 +3,7 @@
 Welcome to the first day! Before discussing various applications to quantum computing in finance, it is crucial to introduce QC gently. Here, we attempt to do so by first introducing both classical computation and quantum mechanics. Then, we introduce quantum computing in the context of gates and circuits. Here's how to view it:
 
  - Step 1: Watch intro to QC lecture here: https://youtu.be/6yONoVTdIaA
- - Step 2: Open the Jupyter notebook (QCPractical) and go through it
+ - Step 2: Open the Jupyter notebook (QCPractical) and go through it. If you don't know how to, here's a [tutorial](https://www.youtube.com/watch?v=DPi6CAkUUPY)
  
  - **Note:** whilst it's not mandatory, I also recommend watching this video where I go through an very similar notebook: https://www.youtube.com/watch?v=5SrGEiFyudQ&t=83s
 
