@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/100093286/155418593-b4df14f0-cb7b-479a-b9bb-7d620d2c1d27.png)
-
 ### Day 3: QML for Finance 
 
 An Introduction to Classical and Quantum Machine Learning
@@ -20,3 +18,4 @@ An Introduction to Classical and Quantum Machine Learning
   [An Introduction to Classical and Quantum Machine Learning PowerPoint Slides.pdf](https://github.com/theheavygluon/QuantumFinance/files/8125801/An.Introduction.to.Classical.and.Quantum.Machine.Learning.PowerPoint.Slides.pdf)
 
 
+![image](https://user-images.githubusercontent.com/100093286/155418593-b4df14f0-cb7b-479a-b9bb-7d620d2c1d27.png)
