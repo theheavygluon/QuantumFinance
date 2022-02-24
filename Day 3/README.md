@@ -1,6 +1,6 @@
-### Day 4: 
-
 ![image](https://user-images.githubusercontent.com/100093286/155418593-b4df14f0-cb7b-479a-b9bb-7d620d2c1d27.png)
+
+### Day 4: 
 
 An Introduction to Classical and Quantum Machine Learning
 
