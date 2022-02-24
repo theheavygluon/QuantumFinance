@@ -1,4 +1,4 @@
-### Day 3: QML for Finance 
+## Day 3: QML for Finance 
 
 An Introduction to Classical and Quantum Machine Learning
 
