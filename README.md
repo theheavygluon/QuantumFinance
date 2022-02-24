@@ -10,13 +10,13 @@ We are a group of students studying Physics at Durham University. We hope this i
 
 If you have any questions please contact us here: 
 
-jack.streeter@durham.ac.uk 
+Jack Streeter (2nd year Physics) - jack.streeter@durham.ac.uk 
 
-edward.hall2@durham.ac.uk
+Edward Hall (2nd year Physics) - edward.hall2@durham.ac.uk
 
-adam.fattal-dakmak@durham.ac.uk 
+Adam Fattal (2nd year Physics) - adam.fattal-dakmak@durham.ac.uk 
 
-alice.c.bru@durham.ac.uk 
+Alice Bru (3rd year Natural Sciences) - alice.c.bru@durham.ac.uk 
 
 
 
@@ -34,16 +34,15 @@ Quantum Computation is attracting an ever-increasing amount of research interest
 
 **Pre-requisites**: The pre-requisite folder contains three chapters; one on vectors (quantum states), one on matrices (quantum operators) and one on classical computation. It is very advised to look through them before going through the other content. 
 
-**Day 1:** introduces quantum computation both theoretically and practically.  
+**Day 1:** Introduces quantum computation both theoretically and practically.  
 
-**Day 2:** introduces Quantum Risk Analysis, and its importance in everyday financial operations.
-
+**Day 2:** Introduces Quantum Risk Analysis, and its importance in everyday financial operations.
 
 **Day 3:** introduces Classical and Quantum Machine Learning and algorithms that can be used in areas of finance such as supply chain management and credit scoring.
 
-**Day 4:** introduces the use of Quantum Computing in Portfolio Optimization.
+**Day 4:** Introduces the use of Quantum Computing in Portfolio Optimization.
 
-**Day 5:** a lab session that applies the content on day 4 to optimize a 5 stock portfolio. 
+**Day 5:** A lab session that applies the content on day 4 to optimize a 5 stock portfolio. 
 
 
 
