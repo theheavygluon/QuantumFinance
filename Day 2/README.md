@@ -1,3 +1,5 @@
+ ![](https://globalriskinstitute.org/wp-content/uploads/2017/01/iStock-123208401_cropped.jpg)
+
 ## Day 2: Introduction to Quantum Risk Analysis
 
 These three lecture videos will take you through the main concepts of Quantum Risk Analyis and its importance to finance. There is also a set of notes as well as the lecture video slides to refer to for more information.
@@ -9,4 +11,4 @@ Lecture videos:
  
  - Lecture 3: https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6f565623-1a1c-4653-8d1c-ae3801226eff
 
- ![](https://globalriskinstitute.org/wp-content/uploads/2017/01/iStock-123208401_cropped.jpg)
+
