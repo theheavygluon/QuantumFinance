@@ -46,7 +46,6 @@ This course consists of five seperate days of lecture videos to watch as well as
 
 and finally **Day 5** will...ADAM
 
-_<a href="https://google.com"> This video</a> explains how to navigate and use this course._
 
 
 
