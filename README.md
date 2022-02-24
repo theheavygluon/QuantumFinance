@@ -31,50 +31,26 @@ Quantum Computation is attracting an ever-increasing amount of research interest
 
 > "One who finds the niche of quantum computing application will become the new market leader" _Viacheslav Petrenko_
 
-## The Course 
+## Table of Content 
 
-This course consists of five seperate days of lecture videos to watch as well as lecture notes to refer to for more information. 
+**Pre-requisites**: The pre-requisite folder contains three chapters; one on vectors (quantum states), one on matrices (quantum operators) and one on classical computation. It is very advised to look through them before going through the other content. 
 
-**Day 1** will...ADAM
+**Day 1:** introduces quantum computation both theoretically and practically.  
 
-**Day 2** will introduce Quantum Risk Analysis, and its importance in everyday financial operations.
+**Day 2:** introduces Quantum Risk Analysis, and its importance in everyday financial operations.
 
 
-**Day 3** will introduce Classical and Quantum Machine Learning and algorithms that can be used in areas of finance such as supply chain management and credit scoring.
+**Day 3:** introduces Classical and Quantum Machine Learning and algorithms that can be used in areas of finance such as supply chain management and credit scoring.
 
-**Day 4** will introduce the use of Quantum Computing in Portfolio Optimization.
+**Day 4:** introduces the use of Quantum Computing in Portfolio Optimization.
 
-and finally **Day 5** will...ADAM
+**Day 5:** a lab session that applies the content on day 4 to optimize a 5 stock portfolio. 
 
 
 
 
 
  ## Table of Contents:
-
-### Day 1: 
-Introduction to quantum computing
-
-by Adam Fattal-Dakmak
-
- - Classical Computing: https://youtu.be/ifPodLNDvcQ
- - Quantum Mechanics: https://youtu.be/ifPodLNDvcQ
- - Quantum Computing: https://youtu.be/ifPodLNDvcQ
-
- - Practical (Introduction to qiskit): https://github.com/theheavygluon/QuantumFinance/blob/main/Day%201/QCPractical.ipynb
-
-### Day 3: 
-Overview of mathematical prerequisites, brief introduction to quantum states and operators, and classical computing. Content available here.
-
-by Adam Fattal-Dakmak
- - Lecture 1: https://youtu.be/ifPodLNDvcQ
-
-
- 
-
-
-
-
 
 ### Day 4: 
 An Introduction to Classical and Quantum Machine Learning
@@ -96,23 +72,6 @@ by Jack Streeter
   [An Introduction to Classical and Quantum Machine Learning PowerPoint Slides.pdf](https://github.com/theheavygluon/QuantumFinance/files/8125801/An.Introduction.to.Classical.and.Quantum.Machine.Learning.PowerPoint.Slides.pdf)
 
 ![image](https://user-images.githubusercontent.com/100093286/155418593-b4df14f0-cb7b-479a-b9bb-7d620d2c1d27.png)
-### Day 5: 
-An Introduction to Quantum optimization
-
-by Edward Hall
-
- - Lecture 1: https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=1e833c1e-8b04-426a-83ae-ae45014d815f
- - Lecture 2: https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=7e48843d-7457-45a9-87c1-ae45014d8e30
- - Lecture 3: https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=84229357-7d36-4160-9ba1-ae45014d9862
- - Lecture 4: https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=72197207-634e-4014-a2e3-ae45014da191
- - Lecture notes and references: [Quantum Optimizaiton Lecture Notes pdf.pdf](https://github.com/theheavygluon/QuantumFinance/files/8119944/Quantum.Optimizaiton.Lecture.Notes.pdf.pdf)
- - PowerPoint slides: [Physics in Society Lecture Slides.pptx](https://github.com/theheavygluon/QuantumFinance/files/8120590/Physics.in.Society.Lecture.Slides.pptx)
-
-
-![Optimization](https://user-images.githubusercontent.com/97832483/155039841-0a22825f-abd3-4dff-a0ea-a08b68661549.jpeg)
-
-
-
 
 
 
