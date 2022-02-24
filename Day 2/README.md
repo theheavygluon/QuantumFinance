@@ -1,6 +1,6 @@
-## Day 2
+## Day 2: Introduction to Quantum Risk Analysis
 
-These three lecture videos will take you through the main concepts of Quantum Risk Analyis and its importance to finance.
+These three lecture videos will take you through the main concepts of Quantum Risk Analyis and its importance to finance. There is also a set of notes as well as the lecture video slides to refer to for more information.
 
 Lecture videos:
  - Lecture 1: https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b3d8ded4-b25e-4a50-9200-ae370142f1a0
