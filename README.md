@@ -10,21 +10,21 @@ We are a group of students studying Physics at Durham University. We hope this i
 
 If you have any questions please contact us here: 
 
-Jack Streeter (2nd year Physics) - jack.streeter@durham.ac.uk 
+Jack Streeter (2nd year, MPhys Physics) - jack.streeter@durham.ac.uk 
 
-Edward Hall (2nd year Physics) - edward.hall2@durham.ac.uk
+Edward Hall (2nd year, Bsc Physics) - edward.hall2@durham.ac.uk
 
-Adam Fattal (2nd year Physics) - adam.fattal-dakmak@durham.ac.uk 
+Adam Fattal (2nd year, Bsc Physics) - adam.fattal-dakmak@durham.ac.uk 
 
-Alice Bru (3rd year Natural Sciences) - alice.c.bru@durham.ac.uk 
+Alice Bru (3rd year, Natural Sciences) - alice.c.bru@durham.ac.uk 
 
 
 
 ## **Introduction** 
 
-**Welcome** to this introductory course on the applications of Quantum Physics in the financial world. In this course we will be taking you through several applications of quantum computational methods in various financial situations through several lecture videos as well as showing you a few examples of these with some coding exercises.
+**Welcome** to this introductory course on the applications of quantum computing to finance. In this course, we will be taking you through four applications of quantum computational methods through lectures videos and notes, spread over a week. On the final day (day 5), you will be run through the covered applications with some coding exercises.
 
-Quantum Computation is attracting an ever-increasing amount of research interest, hype and consequently, funding (both academic and commercial). One industry that seems to be particularly interested in the utilisation of quantum computers is the finance industry. This mini-course is designed to introduce basic Quantum Computing and display a few examples of how it can be applied to the world of finance. The target audience is undergraduates in quantitative fields such as physics, mathematics, computer science (and even finance).
+Both academically and commericially, Quantum Computation is attracting an ever-increasing amount of research interest; an industry that seems to be particularly interested in the utilisation of quantum computers is the financial industry. This week long course is designed to introduce basic Quantum Computing and display a few examples of how it can be applied to the world of finance. The course is targeted toward undergraduates in quantitative fields such as physics, mathematics and computer science, however the course assumes no prior knowledge or background in these topics.
 
 
 
