@@ -12,6 +12,10 @@ An Introduction to Classical and Quantum Machine Learning
 
 - Jupyter Notebook Python Regression Model Example:
 
+Please Note: All python code in this workbook is taken from the Tutorial Solutions on Linear Regression by Marc Deisenroth from his GitHub page; none of the code is my own, and the equations used are based off of his tutorial linked below
+
+https://colab.research.google.com/github/mml-book/mml-book.github.io/blob/master/tutorials/tutorial_linear_regression.solution.ipynb#scrollTo=yr9AM8lWuYI0
+
 - Lecture Notes: [An Introduction to Classical and Quantum Machine Learning Lecture Notes.pdf](https://github.com/theheavygluon/QuantumFinance/files/8134311/An.Introduction.to.Classical.and.Quantum.Machine.Learning.Lecture.Notes.pdf)
 
 - Lecture Powerpoint Slides:
