@@ -7,8 +7,11 @@ Welcome to the first day! Before discussing various applications to quantum comp
  
  - **Note:** whilst it's not mandatory, I also recommend watching this video where I go through an very similar notebook: https://www.youtube.com/watch?v=5SrGEiFyudQ&t=83s
 
- - Check out References and Further Resources Here:
+### Check out References and Further Resources Here:
 
- - [Hello](https://michaelnielsen.org/qcqi/QINFO-book-nielsen-and-chuang-toc-and-chapter1-nov00.pdf)
+ - [Introduction to Quantum Computation and Information by M. Nielsen and I. Chuang](https://michaelnielsen.org/qcqi/QINFO-book-nielsen-and-chuang-toc-and-chapter1-nov00.pdf)
+ - Micheal Nielsen's QC YouTube Playlist: https://www.youtube.com/watch?v=X2q1PuI2RFI&list=PL1826E60FD05B44E4
+ - Proving that only Unitaries Preserve Norm: https://www.youtube.com/watch?v=foNuXVzOtW0
+
 
 
