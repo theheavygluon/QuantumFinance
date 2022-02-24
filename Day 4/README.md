@@ -1,8 +1,4 @@
-## Day 4
-
-![Optimization](https://user-images.githubusercontent.com/97832483/155039841-0a22825f-abd3-4dff-a0ea-a08b68661549.jpeg)
-
-An Introduction to Quantum optimization
+## Day 4: An Introduction to Quantum optimization
 
 by Edward Hall
 
@@ -18,6 +14,7 @@ Lecture notes and references: Quantum Optimizaiton Lecture Notes pdf.pdf
 
 PowerPoint slides: Physics in Society Lecture Slides.pptx
 
+![Optimization](https://user-images.githubusercontent.com/97832483/155039841-0a22825f-abd3-4dff-a0ea-a08b68661549.jpeg)
 
 
 
