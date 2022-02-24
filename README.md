@@ -1,6 +1,6 @@
 # An Introduction to Quantum Finance
 
-## **About the Authors** 
+## **Authors** 
 
 **Course creators:** Jack Streeter, Edward Hall, Adam Fattal-Dakmak and Alice Bru.
 
