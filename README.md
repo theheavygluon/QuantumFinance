@@ -50,4 +50,3 @@ Both academically and commericially, Quantum Computation is attracting an ever-i
 
 
 
- ![IBM Quantum Circuit](https://www.extremetech.com/wp-content/uploads/2019/01/IBM-Quantum-banner-size-640x353.jpg) 
