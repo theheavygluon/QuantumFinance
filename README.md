@@ -41,7 +41,7 @@ This course consists of five seperate days of lecture videos to watch as well as
 
 **Day 3** will introduce Classical and Quantum Machine Learning and algorithms that can be used in areas of finance such as supply chain management and credit scoring.
 
-**Day 4** will will introduce the use of Quantum Computing in Portfolio Optimization.
+**Day 4** will introduce the use of Quantum Computing in Portfolio Optimization.
 
 and finally **Day 5** will...ADAM
 
