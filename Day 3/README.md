@@ -12,7 +12,7 @@ An Introduction to Classical and Quantum Machine Learning
 
 - Jupyter Notebook Python Regression Model Example:
 
-- Lecture Notes:  [An Introduction to Classical and Quantum Machine Learning PowerPoint Slides.pdf](https://github.com/theheavygluon/QuantumFinance/files/8128054/An.Introduction.to.Classical.and.Quantum.Machine.Learning.PowerPoint.Slides.pdf)
+- Lecture Notes: [An Introduction to Classical and Quantum Machine Learning Lecture Notes.pdf](https://github.com/theheavygluon/QuantumFinance/files/8134311/An.Introduction.to.Classical.and.Quantum.Machine.Learning.Lecture.Notes.pdf)
 
 - Lecture Powerpoint Slides:
   [An Introduction to Classical and Quantum Machine Learning PowerPoint Slides.pdf](https://github.com/theheavygluon/QuantumFinance/files/8125801/An.Introduction.to.Classical.and.Quantum.Machine.Learning.PowerPoint.Slides.pdf)
