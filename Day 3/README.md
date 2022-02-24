@@ -4,7 +4,6 @@
 
 An Introduction to Classical and Quantum Machine Learning
 
-by Jack Streeter
 
 - Lecture 1: An Introduction to Machine Learning 
   https://durham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1b839b43-f1c4-49fb-a8ac-ae42013da020
