@@ -1,6 +1,6 @@
 ## Day 4: An Introduction to Quantum Optimization
 
-This section introduces the use of quantum computers in the financial field of optimizaiton. Please watch the four lecture videos, then back up your understanding of the content by reading the lecture notes.
+This section introduces the use of quantum computers in the financial field of optimizaiton. Please watch the four lecture videos, then back up your understanding of the content by reading the lecture notes. The lecture slides are also attached, and are downloadable for use.
 
 Lecture 1: https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=1e833c1e-8b04-426a-83ae-ae45014d815f
 
