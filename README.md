@@ -38,7 +38,7 @@ Both academically and commericially, Quantum Computation is attracting an ever-i
 
 **Day 2:** Introduces Quantum Risk Analysis, and its importance in everyday financial operations.
 
-**Day 3:** Introduces Classical and Quantum Machine Learning and algorithms used in areas such as supply chain management and credit scoring.
+**Day 3:** Introduces Classical and Quantum Machine Learning and algorithms used in supply chain management and credit scoring.
 
 **Day 4:** Introduces the use of Quantum Computing in Portfolio Optimization.
 
