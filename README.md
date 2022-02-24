@@ -22,9 +22,9 @@ alice.c.bru@durham.ac.uk
 
 ## **Introduction** 
 
-**Welcome** to this introductory course on the applications of Quantum Physics in the financial world. In this course we will be taking you through several applications of Quantum Computational methods in various financial situations and showing you examples of these in some coding exercises.
+**Welcome** to this introductory course on the applications of Quantum Physics in the financial world. In this course we will be taking you through several applications of Quantum Computational methods in various financial situations through several lecture videos as well as showing you a few examples of these with some coding exercises.
 
-_Quantum Computation is attracting an ever-increasing amount of research interest, hype and concequently, funding (both academic and commercial). One industry that seems to be particularly interested in the utilization of quantum computers is the finance industry. This mini-course is designed to introduce basic Quantum Computing and display a few examples of how it can be applied to the world of finance. The target audience is undergraduates in quantitative fields such as physics, math, computer science (and even finance)._
+Quantum Computation is attracting an ever-increasing amount of research interest, hype and consequently, funding (both academic and commercial). One industry that seems to be particularly interested in the utilization of quantum computers is the finance industry. This mini-course is designed to introduce basic Quantum Computing and display a few examples of how it can be applied to the world of finance. The target audience is undergraduates in quantitative fields such as physics, math, computer science (and even finance).
 
 _In this course, one will find that each topic has the following resources: Theoretical lecture (uploaded to YouTube), Jupyter Notebook (Coding Implementation in IBM's <a href=https://qiskit.org>Qiskit </a> library) and a problem set._
 
@@ -32,18 +32,18 @@ _In this course, one will find that each topic has the following resources: Theo
 
 ## The Course 
 
-This course consists of five seperate days of lecture videos and notes to watch. 
+This course consists of five seperate days of lecture videos to watch as well as lecture notes to refer to for more information. 
 
 **Day 1** will...ADAM
 
-**Day 2** will...introduce Quantum Risk Analysis, and its importance in everyday financial operations.
+**Day 2** will introduce Quantum Risk Analysis, and its importance in everyday financial operations.
 
 
-**Day 3** will... introduce Classical and Quantum Machine Learning and algorithms that can be used in areas of finance such as supply chain management and credit scoring.
+**Day 3** will introduce Classical and Quantum Machine Learning and algorithms that can be used in areas of finance such as supply chain management and credit scoring.
 
-**Day 4** will...will introduce the use of Quantum Computing in Portfolio Optimization.
+**Day 4** will will introduce the use of Quantum Computing in Portfolio Optimization.
 
-and finally **Day 5** ADAM
+and finally **Day 5** will...ADAM
 
 <a href="https://google.com"> This video</a> explains how to navigate and use this course. Contact us <a href="https://email.com">here</a> if you have a question.
 
