@@ -24,6 +24,8 @@ Alice Bru (3rd year, Natural Sciences) - alice.c.bru@durham.ac.uk
 
 Quantum Computation is attracting an ever-increasing amount of hype, research interest and concequently, funding (both academic and commercial). An industry that seems to be particularly interested in the utilisation of quantum computers is the financial industry. This week long course is designed to introduce basic Quantum Computing and display a few examples of how it can be applied to the world of finance. The course is targeted toward undergraduates in quantitative fields such as physics, mathematics and computer science, however the course assumes no prior knowledge or background in these topics. We will be taking you through four applications of quantum computational methods through lectures videos, notes, and jupyter notebook implementations spread over a week. 
 
+Good luck and reach out with any questions or concerns!
+
 
 
 ## Course Content:
@@ -38,7 +40,7 @@ Quantum Computation is attracting an ever-increasing amount of hype, research in
 
 **Day 4:** Introduces the use of Quantum Computing in Portfolio Optimization.
 
-**Day 5:** A lab session that applies the content on day 4 to optimize a 5 stock portfolio. 
+**Day 5:** A lab session that applies the content on day 4 to optimize a 5 stock portfolio.
 
 
 
