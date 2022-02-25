@@ -22,13 +22,9 @@ Alice Bru (3rd year, Natural Sciences) - alice.c.bru@durham.ac.uk
 
 ## **Introduction** 
 
-**Welcome** to this introductory course on the applications of quantum computing to finance. In this course, we will be taking you through four applications of quantum computational methods through lectures videos and notes, spread over a week. On the final day (day 5), you will be run through the covered applications with some coding exercises.
-
-Both academically and commericially, Quantum Computation is attracting an ever-increasing amount of research interest; an industry that seems to be particularly interested in the utilisation of quantum computers is the financial industry. This week long course is designed to introduce basic Quantum Computing and display a few examples of how it can be applied to the world of finance. The course is targeted toward undergraduates in quantitative fields such as physics, mathematics and computer science, however the course assumes no prior knowledge or background in these topics.
+Quantum Computation is attracting an ever-increasing amount of hype, research interest and concequently, funding (both academic and commercial). An industry that seems to be particularly interested in the utilisation of quantum computers is the financial industry. This week long course is designed to introduce basic Quantum Computing and display a few examples of how it can be applied to the world of finance. The course is targeted toward undergraduates in quantitative fields such as physics, mathematics and computer science, however the course assumes no prior knowledge or background in these topics. We will be taking you through four applications of quantum computational methods through lectures videos, notes, and jupyter notebook implementations spread over a week. 
 
 
-
-> "One who finds the niche of quantum computing application will become the new market leader" _Viacheslav Petrenko_
 
 ## Course Content:
 
